@@ -1,2 +1,2 @@
 # hello-world
-My trial git
+I am a junior developer working in USVI
